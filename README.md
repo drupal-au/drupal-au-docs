@@ -34,3 +34,9 @@ The next step is Wireframes and some design components. Anyone who is willing an
 Currently;
 - Myself from [@PeviousNext](http://previousnext.com.au)
 - Si Hobbs, Campbell and Feb from [@lilengine](https://www.lilengine.co/)
+
+With thanks to the following for their help with the initial push;
+- Angus Gordon and Amelia Schmidt for helping with the UX
+- Stuart Clark for helping with the placeholder site, slack invite and technical discussions 
+- Pete and Donna for hosting the placeholder site and general encouragement!
+- Eveyone in the #drupal_org_au (drupal-au) Slack channel who provided ideas and helped work through issues
