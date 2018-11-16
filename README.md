@@ -32,7 +32,7 @@ The next step is Wireframes and some design components. Anyone who is willing an
 
 ## Who is the project team
 Currently;
-- Myself from [@PeviousNext](http://previousnext.com.au)
+- Myself from [@PreviousNext](http://previousnext.com.au)
 - Si Hobbs, Campbell and Feb from [@lilengine](https://www.lilengine.co/)
 
 With thanks to the following for their help with the initial push;
