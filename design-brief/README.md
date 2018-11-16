@@ -3,7 +3,7 @@
 ## Wireframes
 
 - Ideally some user journeys can be mapped out based on the [features](https://github.com/rikki-iki/drupal-au/tree/master/features/README.md).
-Non-MVP features can be wireframed later, or included with the understanding that they will developed later (ie. eveything needs to work without them).
+- Non-MVP features can be wireframed later, or included with the understanding that they will developed later (ie. eveything needs to work without them).
 - Low-fi wireframes should be enough to give the developers something to start with.
 
 ## Design brief
