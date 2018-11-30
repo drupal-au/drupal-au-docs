@@ -28,6 +28,9 @@ From the user personas came the outlines of the sites features and content. The 
 ## [Design brief](https://github.com/rikki-iki/drupal-au/tree/master/design-brief/README.md)
 The next step is branding. Anyone who is interested and able please contact me!
 
+## [Action plan](https://github.com/rikki-iki/drupal-au/tree/master/plan/README.md)
+The project team have put together a rough action plan, it will be refined over time.
+
 ## Who is the project team
 Currently;
 - Myself and Richard from [@PeviousNext](http://previousnext.com.au)
