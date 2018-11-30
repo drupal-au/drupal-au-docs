@@ -1,6 +1,6 @@
 # Features
 
-## Local community page/listing (MVP)
+## Local community page/listing
 
 Purpose: Make it easier to find/join a local community and make friends.
 
@@ -14,7 +14,7 @@ Implementation:
 - optionally displayed in a map? - lower priority
 - content maintained by one or two nominated people on behalf of their local group.
 
-## AU/NZ Drupal events listing (MVP)
+## AU/NZ Drupal events listing
 
 Purpose: Make events easier to find
 
@@ -27,7 +27,7 @@ Implementation:
 - can be page on this site or redirect to external site/page
 - optionally displayed in a map? - lower priority
 
-## AU/NZ Drupal site showcase (MVP)
+## AU/NZ Drupal site showcase
 
 Purpose: Demonstrate what's possible with Drupal in AU/NZ
 
@@ -42,7 +42,7 @@ Implementation:
 - submitted as a draft by user
 - reviewed to ensure appropriate and published by community page maintainers?
 
-## AU/NZ Drupal agency profile/listing (MVP)
+## AU/NZ Drupal agency profile/listing
 
 Purpose: Expose the digital agencies using Drupal
 
@@ -56,7 +56,7 @@ Implementation:
 - optionally displayed in a map? - lower priority
 - maintained by agency owner?
 
-## User profile/listing (MVP)
+## User profile/listing
 
 - d.o / slack / twitter handles
 - avatar
@@ -64,7 +64,7 @@ Implementation:
 - area's of expertise?
 - potentially a karma system - lower priority
 
-## How to get involved (MVP)
+## How to get involved
 
 Purpose: Get more people involved in contributing to Drupal in any way
 
