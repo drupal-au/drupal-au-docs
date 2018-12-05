@@ -16,15 +16,15 @@ The project team have put together a rough action plan, it will be refined over 
 Wireframe design and develop:
 
 * [Local community section](https://github.com/drupal-org-au/drupal-au-docs/blob/master/features/README.md#local-community-pagelisting)
-* [Events](https://github.com/drupal-org-au/drupal-au-docs/blob/master/features/README.md#aunz-drupal-events-listing)
+* [Events](https://github.com/drupal-org-au/drupal-au-docs/blob/master/features/README.md#drupal-events-listing)
 * [User profiles](https://github.com/drupal-org-au/drupal-au-docs/blob/master/features/README.md#user-profilelisting)
 
 ## Stage 3 (agencies)
 
 Wireframe design and develop:
 
-* [Showcase](https://github.com/drupal-org-au/drupal-au-docs/blob/master/features/README.md#aunz-drupal-site-showcase)
-* [Agency profiles](https://github.com/drupal-org-au/drupal-au-docs/blob/master/features/README.md#aunz-drupal-agency-profilelisting)
+* [Showcase](https://github.com/drupal-org-au/drupal-au-docs/blob/master/features/README.md#australian-drupal-site-showcase)
+* [Agency profiles](https://github.com/drupal-org-au/drupal-au-docs/blob/master/features/README.md#australian-drupal-agency-profilelisting)
 * [Basic content](https://github.com/drupal-org-au/drupal-au-docs/blob/master/features/README.md#how-to-get-involved)
 
 ## Stage 4 (extra community)

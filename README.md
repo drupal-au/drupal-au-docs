@@ -1,7 +1,7 @@
 # [drupal.org.au](https://www.drupal.org.au/) project outline
 
 ## Background
-There has been various discussions and other efforts in the past around a "Drupal AU/NZ" website to replace the [Drupal.org Groups](https://groups.drupal.org/australia) site. 
+There has been various discussions and other efforts in the past around a "Drupal Australia" website to replace the [Drupal.org Groups](https://groups.drupal.org/australia) site. 
 
 At Drupalcamp Melbourne 2015 (Nov 27th), there was  a session where details were discussed and a call to action made to create a community-driven project team to make it happen. A single page website was built as a placeholder while user research was carried out. Unfortunately not much more was done as resourcing the project is always the difficult part!
 
@@ -10,7 +10,7 @@ A second push came in June 2018 with renewed interest so previous work has been 
 If anyone feels this information is wrong or could be improved, please create an Issue or submit a Pull Request! I'm certainly not a UX expert and have done this work in lieu of having actual UX resources. That said, it has been reviewed by some of the UXers in our community.
 
 ## Objective
-Support and promote the Drupal AU/NZ community and eco-system. 
+Support and promote the Drupal Australia community and eco-system. 
 
 ## [User personas](https://github.com/drupal-org-au/drupal-au-docs/tree/master/user-personas/README.md)
 User research was conducted in 2016 and compiled into these 4 User Personas;
