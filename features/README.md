@@ -1,6 +1,6 @@
 # Features
 
-## Local community page/listing (MVP)
+## Local community page/listing
 
 Purpose: Make it easier to find/join a local community and make friends.
 
@@ -8,28 +8,28 @@ Implementation:
 
 - a group that individual users can join and receive email notifications from
 - shows all users that have joined
-- shows all local Drupal events (meetups, camps etc)
+- shows all local Drupal events (meetups, camps, training days, sprint days etc)
 - links to social media
 - potentially include news feed
 - optionally displayed in a map? - lower priority
-- content maintained by one or two nominated people on behalf of their local group.
+- content submitted by community and curated by content team.
 
-## AU/NZ Drupal events listing (MVP)
+## Drupal events listing
 
 Purpose: Make events easier to find
 
 Implementation:
 
-- local events (meetups, camps, sprints, training etc) as a feed from local meetup.com
-- national events (DrupalSouth, DrupalGov, etc) maintained by event organiser
-- international events (Drupal Cons) ? much lower priority
+- list all large Drupal events (DrupalSouth, DrupalGov, etc), linking to primary event website
+- lists all smaller Drupal events (meetups, camps, training days etc)
+- potentially include DrupalCons ? much lower priority
 - non-Drupal events that are recommended by someone in the community - lower priority
-- can be page on this site or redirect to external site/page
+- can be page on this site or redirect to external site/page - ie. placeholder page in lieu of event website
 - optionally displayed in a map? - lower priority
 
-## AU/NZ Drupal site showcase (MVP)
+## Australian Drupal site showcase
 
-Purpose: Demonstrate what's possible with Drupal in AU/NZ
+Purpose: Demonstrate what's possible with Drupal in Australia
 
 Implementation:
 
@@ -42,21 +42,21 @@ Implementation:
 - submitted as a draft by user
 - reviewed to ensure appropriate and published by community page maintainers?
 
-## AU/NZ Drupal agency profile/listing (MVP)
+## Australian Drupal agency profile/listing
 
 Purpose: Expose the digital agencies using Drupal
 
 Implementation:
 
 - random listing at first, filterable by location, skills etc
-- potentially look at a karma system but not urgent
 - locations
 - skills
-- flag if they're hiring / link to job adverts - lower priority
+- list/link to job adverts
 - optionally displayed in a map? - lower priority
+- potentially look at a karma system but not urgent
 - maintained by agency owner?
 
-## User profile/listing (MVP)
+## User profile/listing
 
 - d.o / slack / twitter handles
 - avatar
@@ -64,14 +64,14 @@ Implementation:
 - area's of expertise?
 - potentially a karma system - lower priority
 
-## How to get involved (MVP)
+## How to get involved
 
 Purpose: Get more people involved in contributing to Drupal in any way
 
 Implementation:
 
 - primarily static content
-- information about contributing etc
+- information about contributing, Slack channels etc
 - information about why they should get involved. What is Drupal. What is the community about, etc.
 - users can nominate themselves as mentors available to be contacted by newbies?
 
@@ -96,7 +96,7 @@ Implementation:
 - List related events
 - each sub-group should have a nominated mentor / group maintainer
 
-## Drupal AU/NZ Industry Group
+## Drupal AU Industry Group
 
 Purpose: Provide information about the industry group (check with them if this is still a thing)
 
