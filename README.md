@@ -31,12 +31,16 @@ The next step is branding. Anyone who is interested and able please contact me!
 ## [Action plan](https://github.com/drupal-org-au/drupal-au-docs/tree/master/plan/README.md)
 The project team have put together a rough action plan, it will be refined over time.
 
+## [Meeting notes and outcomes](https://github.com/drupal-org-au/drupal-au-docs/tree/master/meetings)
+Any major conversations or decisions the project team has will be documented here.
+
 ## Who is the project team
 Currently;
 - Myself and Richard from [@PeviousNext](http://previousnext.com.au)
 - Si Hobbs, Campbell and Feb from [@lilengine](https://www.lilengine.co/)
 
 With thanks to the following for their help with the initial push;
+- Everyone who attend the discussion at DrupalCamp Melbourne 2015
 - Angus Gordon and Amelia Schmidt for helping with the UX
 - Stuart Clark for helping with the placeholder site, slack invite and technical discussions 
 - Pete and Donna for hosting the placeholder site and general encouragement!
