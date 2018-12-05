@@ -8,7 +8,7 @@ The project team took the oportunity to catch up in person at Drupal South Canbe
 * Check with owners of https://drupal.nz to see if the NZ community even wants to be included in this new site or not.
 * Discussed the concept of "downunder" and being playful with the homepage without being cliche.
 * Check other domains like drupal.apac, drupaldownunder.org and drupal.com.au
-* Agreed on the [Action plan](https://github.com/drupal-org-au/drupal-au-docs/blob/master/plan/README.md)
+* Agreed on the [Action plan](https://github.com/drupal-au/drupal-au-docs/blob/master/plan/README.md)
 * Discussed content governance and the need to keep it simple.
 * Discussed design elements being flexibile enough for dev team to use without much oversight.
 
