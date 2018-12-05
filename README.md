@@ -12,23 +12,23 @@ If anyone feels this information is wrong or could be improved, please create an
 ## Objective
 Support and promote the Drupal AU/NZ community and eco-system. 
 
-## [User personas](https://github.com/rikki-iki/drupal-au/tree/master/user-personas/README.md)
+## [User personas](https://github.com/drupal-org-au/drupal-au-docs/tree/master/user-personas/README.md)
 User research was conducted in 2016 and compiled into these 4 User Personas;
 - Drupal business owner
 - Drupal developer
 - UX professional
 - Minority Drupal user
 
-The survey questions used to conduct the research [can be seen here](https://github.com/rikki-iki/drupal-au/tree/master/user-personas/survey-questions.md). 
+The survey questions used to conduct the research [can be seen here](https://github.com/drupal-org-au/drupal-au-docs/tree/master/user-personas/survey-questions.md). 
 The survey was anonymous but the results themselves are only shared on a need to know basis. Some information in them is private, and whilst anonymous, some answers can be easy to identify their owner.
 
-## [Features](https://github.com/rikki-iki/drupal-au/tree/master/features/README.md)
+## [Features](https://github.com/drupal-org-au/drupal-au-docs/tree/master/features/README.md)
 From the user personas came the outlines of the sites features and content. The full set of features will be approached from an MVP perspective and may change over time. Wireframes and design of these features should also be approached from the same MVP perspective. 
 
-## [Design brief](https://github.com/rikki-iki/drupal-au/tree/master/design-brief/README.md)
+## [Design brief](https://github.com/drupal-org-au/drupal-au-docs/tree/master/design-brief/README.md)
 The next step is branding. Anyone who is interested and able please contact me!
 
-## [Action plan](https://github.com/rikki-iki/drupal-au/tree/master/plan/README.md)
+## [Action plan](https://github.com/drupal-org-au/drupal-au-docs/tree/master/plan/README.md)
 The project team have put together a rough action plan, it will be refined over time.
 
 ## Who is the project team
